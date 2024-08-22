@@ -1,0 +1,30 @@
+'''
+Começo da Aula 1 (Aprendendo Python)
+'''
+print("Primeira vez programando em Python usando print")
+print('Teste 2')
+
+ # Agora aprendendo a usar comentario para os codigos 
+
+'''
+Agora Strings e Numeros
+'''
+
+x = 'ola' #String
+y = 2 #Numero
+
+'''
+Modificando os tipos de dados
+'''
+print(x)
+print(y)
+
+x = str(3)
+y = int(4)
+
+print(x)
+print(y)
+
+'''
+Fim da Aula 1
+'''
